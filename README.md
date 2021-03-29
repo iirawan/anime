@@ -18,5 +18,4 @@ title: About Anime.js
 ## Controls
 ## Callback and promises
 ## SVG
-## Easing
-
+## Eas
